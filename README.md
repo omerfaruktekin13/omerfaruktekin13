@@ -34,10 +34,10 @@
 ## Simulation
 
 ### Hybrid Car Model
-<a href="https://github.com/omerfaruktekin13/HybridCarModelMATLABSimulinkSimscape/" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/HybridCarModelMATLABSimulinkSimscape/blob/main/Media/electric.png" title="Hybrid Car Model" alt="Hybrid Car Model" width="1150" height="350"  /> </a>
+<a align="center" href="https://github.com/omerfaruktekin13/HybridCarModelMATLABSimulinkSimscape/" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/HybridCarModelMATLABSimulinkSimscape/blob/main/Media/electric.png" title="Hybrid Car Model" align="center" alt="Hybrid Car Model" width="1150" height="350"  /> </a>
 # 
 ### 5 Bar Parallel Robot via MATLAB Simscape
-<a href="https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot-via-MATLAB-Simscape" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot-via-MATLAB-Simscape/blob/main/media/5bargif.gif" title="5 Bar Parallel Robot via MATLAB Simscape" alt="5 Bar Parallel Robot via MATLAB Simscape" width="450" height="250"  /> </a>
+<a align="center" href="https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot-via-MATLAB-Simscape" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot-via-MATLAB-Simscape/blob/main/media/5bargif.gif" align="center" title="5 Bar Parallel Robot via MATLAB Simscape" alt="5 Bar Parallel Robot via MATLAB Simscape" width="450" height="250"  /> </a>
 #
 ### Cable-Driven Parallel Robot
 <a href="https://github.com/omerfaruktekin13/CableDrivenParallelRobot" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/CableDrivenParallelRobot/blob/main/Media/CDPRgif.gif" title="Cable-Driven Parallel Robot" alt="Cable-Driven Parallel Robot" width="450" height="250"  /> </a>
