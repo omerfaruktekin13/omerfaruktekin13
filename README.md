@@ -35,39 +35,40 @@
 
 ### Hybrid Car Model
 <a href="https://github.com/omerfaruktekin13/HybridCarModelMATLABSimulinkSimscape/" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/HybridCarModelMATLABSimulinkSimscape/blob/main/Media/electric.png" title="Hybrid Car Model" alt="Hybrid Car Model" width="1150" height="350"  /> </a>
-
+# 
 ### 5 Bar Parallel Robot via MATLAB Simscape
 <a href="https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot-via-MATLAB-Simscape" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot-via-MATLAB-Simscape/blob/main/media/5bargif.gif" title="5 Bar Parallel Robot via MATLAB Simscape" alt="5 Bar Parallel Robot via MATLAB Simscape" width="450" height="250"  /> </a>
-
+#
 ### Cable-Driven Parallel Robot
 <a href="https://github.com/omerfaruktekin13/CableDrivenParallelRobot" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/CableDrivenParallelRobot/blob/main/Media/CDPRgif.gif" title="Cable-Driven Parallel Robot" alt="Cable-Driven Parallel Robot" width="450" height="250"  /> </a>
-
+#
 ### Brushless DC Motor Control Simscape Electrical
 <a href="https://github.com/omerfaruktekin13/BrushlessDCMotorControlSimscapeElectrical" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/BrushlessDCMotorControlSimscapeElectrical/blob/main/Media/SimulinkDiagram.png" title="Brushless DC Motor Control Simscape Electrical" alt="Brushless DC Motor Control Simscape Electrical" width="750" height="250"  /> </a>
-
+#
 ### Drone Control with Regularator and Observer Algorithm
 <a href="https://github.com/omerfaruktekin13/DroneControlwithRegularatorandObserverAlgorithm" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/DroneControlwithRegularatorandObserverAlgorithm/blob/main/Media/SimulinkModel.png" title="Drone Control with Regularator and Observer Algorithm" alt="Drone Control with Regularator and Observer Algorithm" width="750" height="350"  /> </a>
-
+#
 ## Computer Vision
 
 ### Stitching Two Images in Python OpenCV
 <a href="https://github.com/omerfaruktekin13/Stitching-Two-Images-in-Python-OpenCV" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/Stitching-Two-Images-in-Python-OpenCV/blob/main/Media/e.jpg" title="Stitching Two Images in Python OpenCV" alt="Stitching Two Images in Python OpenCV" width="750" height="350"  /> </a>
-
+#
 ### Signed Distance Function Primitives C++
 <a href="https://github.com/omerfaruktekin13/SignedDistanceFunctionPrimitives" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/SignedDistanceFunctionPrimitives/blob/main/Media/Torus.png" title="Signed Distance Function Primitives C++" alt="Signed Distance Function Primitives C++" width="450" height="350"  /> </a>
-
+#
 ### Detecting Desired Areas From Image
 <a href="https://github.com/omerfaruktekin13/DetectingDesiredAreasFromImage" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/DetectingDesiredAreasFromImage/blob/main/Media/7.jpg" title="Detecting Desired Areas From Image" alt="Detecting Desired Areas From Image" width="450" height="350"  /> </a>
-
+#
 ### MATLAB GUI for Image Processing Operations
 <a href="https://github.com/omerfaruktekin13/MATLABGUIforImageProcessingOperations" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/MATLABGUIforImageProcessingOperations/blob/main/Im_3.png" title="MATLAB GUI for Image Processing Operations" alt="MATLAB GUI for Image Processing Operations" width="550" height="450"  /> </a>
-
+#
 ## Data Engineering
 
 ### Convolutional Neural Network Filter Visualization
 <a href="https://github.com/omerfaruktekin13/CNN_Filter_Visualization" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/CNN_Filter_Visualization/blob/main/Media/6.png" title="Convolutional Neural Network Filter Visualization" alt="Convolutional Neural Network Filter Visualization" width="350" height="350"  /> </a>
-
+#
 ## Game Design
 
 ### Basketball Game for Special Children Unity C#
 <a href="https://github.com/omerfaruktekin13/Basketball-Game-for-Special-Children" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/Basketball-Game-for-Special-Children/blob/main/ImagesFromGame/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-03-18%20133818.png" title="Basketball Game for Special Children Unity C#" alt="Basketball Game for Special Children Unity C#" width="650" height="350"  /> </a>
+#
