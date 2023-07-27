@@ -45,7 +45,7 @@
 ### Brushless DC Motor Control Simscape Electrical
 <a href="https://github.com/omerfaruktekin13/BrushlessDCMotorControlSimscapeElectrical" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/BrushlessDCMotorControlSimscapeElectrical/blob/main/Media/SimulinkDiagram.png" title="Brushless DC Motor Control Simscape Electrical" alt="Brushless DC Motor Control Simscape Electrical" width="750" height="250"  /> </a>
 #
-### Drone Control with Regularator and Observer Algorithm
+### Drone Control with Regularator and Observer Algorithms
 <a href="https://github.com/omerfaruktekin13/DroneControlwithRegularatorandObserverAlgorithm" target="_blank" rel="noreferrer"> <img src="https://github.com/omerfaruktekin13/DroneControlwithRegularatorandObserverAlgorithm/blob/main/Media/SimulinkModel.png" title="Drone Control with Regularator and Observer Algorithm" alt="Drone Control with Regularator and Observer Algorithm" width="750" height="350"  /> </a>
 #
 ## Computer Vision
