@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Simulation, Control Algorithms and Automation**
 
-- 🤝 You can reach my CV **https://omerfaruktekin.tiiny.site/**
+- 🤝 You can reach my CV **https://omerfaruktekincv.tiiny.site/**
 
 - 📫 How to reach me **omertekin13@gmail.com**
 
