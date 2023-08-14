@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Tekin</h1>
-<h3 align="center">I'm Simulation Engineer and Data Engineer who is specialized in Robotics and Control Algorithms</h3>
+<h3 align="center">I'm Simulation Engineer and Software Engineer who is specialized in Cars, Robotics and Control Algorithms</h3>
 
 - 🔭 I’m currently working on **Simulation, Control Algorithms and Automation**
 
